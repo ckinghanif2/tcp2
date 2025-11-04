@@ -662,7 +662,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
         await asyncio.sleep(reconnect_delay)
 
 async def MaiiiinE():
-    Uid , Pw = '4105107359','C372C9A0A77A3E7071B29F0A6D3F36F4EB157BC427831FFFC8A344522B82C220'
+    Uid , Pw = '4238814801','02867AB914FC2BE9AB41B949C81E6DA70CB7D15F5A6BBE4AFB0498CC6D4162D3'
     
 
     open_id , access_token = await GeNeRaTeAccEss(Uid , Pw)
